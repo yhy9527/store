@@ -1,0 +1,3 @@
+运行抖音
+生成adb logcat>E:/app/douyin.log
+在日志里搜索displayed即可找到com.ss.android.ugc.aweme.splash.SplashActivity
